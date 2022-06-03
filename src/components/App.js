@@ -17,7 +17,7 @@ export default function App() {
         className={isDrunk ? "drunk" : ""}
       >
         <h1>Infamous Banana's Kombucha Den</h1>
-        <p>Sit down. Stay awhile.</p>
+        <p>We have two kombuchas on tap. We have bacteria in the back. If you'd like to brew your own stuff, feel free to try!</p>
         <p
           style={{fontSize: "50%"}}
         >

@@ -15,8 +15,8 @@ function Footer({ onHoverDrunk }) {
           style={footerStyles}
           onMouseEnter={() => onHoverDrunk(true)}
           onMouseLeave={() => onHoverDrunk(false)}
-          className="lilguy"
-        >(((φ(◎ロ◎;)φ)))</p>
+          className="mushroomman"
+        >🍄🍄🍄</p>
       </div>
     </footer>
   );
